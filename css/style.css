@@ -1,0 +1,244 @@
+
+html{
+	text-align:center;
+    display: flex;
+}
+	.Head{
+		text-align:center;
+		margin-top: 200px;
+		padding: 0px;
+		font-family:Script MT ;
+		font-size:40px;
+		color:white;
+	}
+	footer ul li{
+	  display:inline;
+	      list-style-type: none;
+        margin: auto;
+        overflow: hidden;
+        color:red;
+        padding:10px;
+        width:auto;
+	}
+    #logo{
+        position:fixed;
+        width:500px;
+        list-style-type: none;
+        text-align:left;
+        padding-left: 20px;
+        overflow: hidden;
+        font-size: 30px;
+        color: white;
+    }
+	nav{
+        position:fixed;
+        width:100%;
+	}
+	nav ul{
+        list-style-type: none;
+        margin: auto;
+        overflow: hidden;
+        background-color: #d3cece99;
+      }
+      
+      
+    nav ul li{
+		display: table-cell;
+        float:right;
+		padding-bottom: 0;
+        margin: auto;
+      }
+      
+     nav ul li a{
+        display: table-cell;
+        color: white;
+        text-align: center;
+        padding: 25px;
+        text-decoration: none;
+        font-family:Arial Rounded MT ;
+
+      } 
+	li a:hover{
+		background-color: #9c9797;
+	}
+	li a:link{
+	    color:white;
+	}
+	li a:visited{
+		color: #ffffff;
+	}
+	li a:active {
+    color: #6293a7;
+}
+	body {
+        margin:auto;
+        width:100%;
+        background-image:url('../image/Nature-Forest-And-Trees-011(TheWallpapers.org)(1920x1440).jpg');
+		
+        background-repeat:no-repeat;
+        background-attachment:fixed;
+        background-size:100% 100%;
+		
+
+}
+
+	.w3-black,.w3-hover-black:hover{color:#fff!important;background-color:#000!important}
+	.w3-button {
+    border: none;
+    margin:5px;
+    display: inline-block;
+    outline: 0;
+    padding: 6px 10px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: darkgreen;
+    background-color: orange;
+    text-align: center;
+	color: white;
+    cursor: pointer;
+    white-space: pre-wrap;
+}
+.submitButton{
+  border: none;
+    margin:5px;
+    display: inline-block;
+    outline: 0;
+    padding: 6px 10px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    text-align: center;
+    cursor: pointer;
+    white-space: pre-wrap;
+}
+
+.main_box{
+    background-color:#99d8ff91;
+    margin:10px;
+    box-shadow: 10px 10px 5px #888888;
+    padding:10px;
+    overflow:auto;
+	
+}
+.graph_box{
+    display: inline-block;
+    vertical-align: bottom;
+    margin:20px;
+    height: 600px;
+    width: 500px;
+    background-color: rgba(212, 246, 255, 0.8);
+	overflow: scroll;
+}
+	 main{
+        padding:10px;
+         margin-top: 200px;
+         text-align: center;
+     }
+  footer {
+        background-color:none;
+        padding: 20px;
+        margin:auto;
+        color:black;
+        font-size:small;
+      }
+
+
+
+}
+}
+.w3-red,.w3-hover-red:hover{
+    color:#fff!important;
+    background-color:#f44336!important}
+.w3-white,.w3-hover-white:hover{
+    color:#000!important;
+    background-color:#fff!important}
+
+  .form_box{
+    background-color: #fff7e6;
+    max-width:800px;
+    min-width:400px;
+    text-align:left;
+    margin:auto;
+    padding:10px;
+    box-shadow: 10px 10px 5px #888888;
+    border-radius: 30px 40px 30px;
+    display:inline-block;
+  }
+ 
+ .cus_table{
+   border:2px solid #ffe699;
+ }
+  .cus_th{
+    border:2px solid #ffe699;
+    width:45%;
+    text-align:right;
+  }
+  
+  .cus_td{
+    border:2px solid #ffe699;
+    width:55%;
+    
+  }
+  
+  .text_box{
+    max-width:800px;
+    min-width:400px;
+    margin:auto;
+    margin-bottom:40px;
+    padding:10px;
+    box-shadow: 10px 10px 5px #888888;
+    border-radius: 30px 40px 30px;
+    display:block;
+    background-color: #fff7e6;
+  }
+  div .submit{
+    float:right;
+  }
+/*
+#button{
+    background-image:url('../image/star.png');
+	height: 30px;
+	width : 30px;
+    cursor:pointer;
+}
+
+h3{*/
+  /*font-family:"Lucida Console";*/
+  /*text-align:center;*/
+  /*color:#882b2b;*/
+  /*margin-top: 5px;*/
+/*}*/
+/*h5{*/
+  /*font-family:"Lucida Console";*/
+  /*text-align:center;*/
+  /*color:#882b2b;*/
+  /*margin-top: 5px;*/
+/*}*/
+
+ h3{
+	  font-size:20px;
+	  margin:0 auto;
+	}
+
+h2{
+    font-size:30px;
+    margin:10px auto;
+}
+
+
+ .estTime {
+     display:block;
+     margin:auto;
+     padding:10px;
+     float: right;
+ }
+
+a:link{
+  color:black;
+}
+a:visited{
+  color:white;
+}
